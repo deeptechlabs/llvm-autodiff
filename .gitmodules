@@ -1,0 +1,3 @@
+[submodule "clad"]
+	path = clad
+	url = git@github.com:dendisuhubdy/clad.git
